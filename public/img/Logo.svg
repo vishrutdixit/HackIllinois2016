@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="66px" viewBox="0 0 45 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-25.000000, -16.000000)" fill="#FFFFFF">
+            <g id="Logo" sketch:type="MSLayerGroup" transform="translate(25.000000, 16.000000)">
+                <path d="M8.46492229,0 L44.8392857,0 L44.8392857,14.6131387 L21.5936686,14.6131387 L0.00308153246,14.6131387 L8.46492229,0 Z" id="Rectangle-2" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-3" sketch:type="MSShapeGroup" x="12.5357143" y="13.810219" width="19.4464286" height="13.1678832"></rect>
+                <path d="M0,51.3868613 L44.9803668,51.3868613 L36.3214286,66 L0,66 L0,51.3868613 Z" id="Rectangle-4" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-5" sketch:type="MSShapeGroup" x="12.5357143" y="39.5036496" width="19.4464286" height="12.8467153"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

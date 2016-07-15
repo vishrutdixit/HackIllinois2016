@@ -1,0 +1,63 @@
+.logo {
+  float: left;
+  padding-top: 7px;
+}
+
+.queue-item {
+  font-size: 20px;
+}
+.queue-item .material-icons {
+  font-size: 50px;
+}
+
+.queue-item .row {
+  width: 100%;
+  margin: 0;
+}
+
+.brand-logo .logo {
+  margin-top: 7px;
+}
+
+.heart-icon {
+  padding-top: 3px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+footer.page-footer {
+  padding: 0;
+  margin: 0;
+}
+
+.qanim.ng-enter {
+  transition: 1s linear all;
+  opacity:0;
+
+}
+
+.qanim.ng-enter.ng-enter-active {
+  opacity:1;
+}
+.qanim.ng-enter-stagger {
+
+  transition-delay: 0.1s;
+
+  transition-duration: 0s;
+}
+
+.qanim.ng-leave {
+  transition: 1s linear all;
+  opacity:1;
+}
+.qanim.ng-leave.ng-leave-active {
+  opacity:0;
+}

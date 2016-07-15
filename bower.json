@@ -1,0 +1,28 @@
+{
+  "name": "FlicApp",
+  "description": "A service queue for customers at sit-down businesses",
+  "main": "index.js",
+  "authors": [
+    "Jonathan Reynolds <j14reynolds@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "homepage": "waiterqueue.me",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "Materialize": "materialize#^0.97.5"
+  }
+}
